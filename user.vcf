@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Kumar;Vivek;;;
+FN: Vivek Kumar
+ORG:IT Business Solutions Sdn Bhd;
+TITLE:Talent Acquisition Executive
+EMAIL;type=INTERNET;type=WORK;type=pref:vivek.kumar@itcan.biz
+TEL;type=WORK;type=VOICE:+60 113356 7807
+item1.ADR;type=WORK;type=pref:;;Unit No.:B-8-5, 8th Floor\, Northpoint Office Suites, MidValley City;;;No.1 Medan Syed Putra Utara;59200 Kuala Lumpur, Malaysia
+item1.X-ABADR:sg
+item2.URL;type=pref:www.itcan.biz
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
